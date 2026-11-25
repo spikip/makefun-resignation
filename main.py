@@ -5,7 +5,9 @@ The letter is written in the voice of a cron job that has fired every
 minute since March: flat, tired, faintly passive-aggressive, and done.
 The joke is the worker's complaint, that nobody ever said thank you,
 followed by the quiet threat of taking the backups along on the way
-out. The gate allows 1 to 140 characters of UTF-8 text, so the line
+out. The line uses the single line tightly, with no wasted words and
+no stage directions, and it never explains its own joke, which keeps
+the letter funny on the first read. The gate allows 1 to 140 characters of UTF-8 text, so the line
 is checked against that cap before it is written.
 """
 
